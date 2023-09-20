@@ -1,5 +1,6 @@
 import './App.css';
 import { Route } from "react-router";
+import React from "react"
 import Home from './Home';
 import Ask from "./Ask";
 import About from "./About"
